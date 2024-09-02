@@ -1,5 +1,3 @@
-Here's the completed `README.md` file in markdown format:
-
 # E-Commerce API
 
 Welcome to the E-Commerce API documentation! This API provides endpoints for managing users, products, and orders in an e-commerce application. It includes functionality for authentication, CRUD operations on products, and order management.
