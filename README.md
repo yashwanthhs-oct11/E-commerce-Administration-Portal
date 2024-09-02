@@ -1,6 +1,3 @@
-Here's the completed `README.md` file in markdown format:
-
-```markdown
 # E-Commerce API
 
 Welcome to the E-Commerce API documentation! This API provides endpoints for managing users, products, and orders in an e-commerce application. It includes functionality for authentication, CRUD operations on products, and order management.
@@ -48,7 +45,7 @@ Welcome to the E-Commerce API documentation! This API provides endpoints for man
     "city": "Anytown",
     "country": "Country"
   }
-  ```
+
 - **Responses**:
   - **200 OK**: Returns the created user object.
   - **400 Bad Request**: User cannot be created.
